@@ -1,2 +1,8 @@
 # Airflow / task logs
 logs/
+# Python virtual env
+.venv/
+venv/
+
+# Environment variables
+.env
